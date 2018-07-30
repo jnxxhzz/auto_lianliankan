@@ -2,6 +2,8 @@
 进入游戏界面后运行代码,然后双手离开鼠标和键盘...
 over
 
+博客链接在这里 : https://blog.csdn.net/jnxxhzz/article/details/81275542
+打包好的.exe可执行文件在这里 :  
 
 1.使用的扩展库
 python3.6 + opencv-python + pywin32 + PIL + numpy
